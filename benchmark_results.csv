@@ -1,0 +1,55 @@
+n,block_x,block_y,time_sec,returncode,verify_stdout,verify_returncode,stdout,stderr
+200,8,8,0.374450,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=200, block=8x8, execution time: 90.454 ms
+Result saved: result_200_b8x8.txt",
+200,16,16,0.151484,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=200, block=16x16, execution time: 0.530 ms
+Result saved: result_200_b16x16.txt",
+200,32,32,0.150893,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=200, block=32x32, execution time: 0.479 ms
+Result saved: result_200_b32x32.txt",
+400,8,8,0.315373,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=400, block=8x8, execution time: 0.874 ms
+Result saved: result_400_b8x8.txt",
+400,16,16,0.270901,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=400, block=16x16, execution time: 0.565 ms
+Result saved: result_400_b16x16.txt",
+400,32,32,0.268160,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=400, block=32x32, execution time: 0.595 ms
+Result saved: result_400_b32x32.txt",
+800,8,8,0.788051,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=800, block=8x8, execution time: 1.736 ms
+Result saved: result_800_b8x8.txt",
+800,16,16,0.775722,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=800, block=16x16, execution time: 1.408 ms
+Result saved: result_800_b16x16.txt",
+800,32,32,0.762742,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=800, block=32x32, execution time: 1.456 ms
+Result saved: result_800_b32x32.txt",
+1200,8,8,1.646619,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=1200, block=8x8, execution time: 3.884 ms
+Result saved: result_1200_b8x8.txt",
+1200,16,16,1.625228,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=1200, block=16x16, execution time: 3.577 ms
+Result saved: result_1200_b16x16.txt",
+1200,32,32,1.608451,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=1200, block=32x32, execution time: 3.692 ms
+Result saved: result_1200_b32x32.txt",
+1600,8,8,2.806204,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=1600, block=8x8, execution time: 9.595 ms
+Result saved: result_1600_b8x8.txt",
+1600,16,16,2.723678,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=1600, block=16x16, execution time: 7.775 ms
+Result saved: result_1600_b16x16.txt",
+1600,32,32,2.822126,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=1600, block=32x32, execution time: 7.792 ms
+Result saved: result_1600_b32x32.txt",
+2000,8,8,4.333312,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=2000, block=8x8, execution time: 15.897 ms
+Result saved: result_2000_b8x8.txt",
+2000,16,16,4.243666,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=2000, block=16x16, execution time: 14.752 ms
+Result saved: result_2000_b16x16.txt",
+2000,32,32,4.728805,0,SUCCESS,0,"File for first matrix: File for second matrix: 
+Task size: n=2000, block=32x32, execution time: 15.460 ms
+Result saved: result_2000_b32x32.txt",
